@@ -22,8 +22,8 @@ yarn start
 
 Project is hosted here: https://codecrest-f725d.web.app/
 
-Screenshots:
 
 
 
-<img width="952" alt="image" src="https://github.com/theoopsguy/CodeCrest/assets/83968619/abf9216a-dd76-4696-a0c4-c490676dd370">
+
+
